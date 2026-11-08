@@ -1,9 +1,13 @@
 {
-  "Author": "SeuNome",
+  "Author": "Ryuudiin",
   "Name": "XIVUlanzi",
   "InternalName": "XivUlanzi",
   "Punchline": "Controle o FFXIV pelo Ulanzi Studio.",
   "Description": "Expõe um servidor WebSocket local para que o plugin do Ulanzi Studio acione macros, emotes e outras ações no jogo.",
-  "Tags": ["utility", "ulanzi", "deck"],
-  "RepoUrl": "https://github.com/SEU_USUARIO/XivUlanzi"
+  "Tags": [
+    "utility",
+    "ulanzi",
+    "deck"
+  ],
+  "RepoUrl": "https://github.com/Ryuudiin/XIVUlanziDeck"
 }

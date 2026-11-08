@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Ryuudiin",
+    "Name": "XIVUlanzi",
+    "InternalName": "XivUlanzi",
+    "AssemblyVersion": "0.0.1.0",
+    "Description": "Expõe um servidor WebSocket local para que o plugin do Ulanzi Studio troque gearsets e execute comandos no jogo.",
+    "Punchline": "Controle o FFXIV pelo Ulanzi Deck.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ryuudiin/XIVUlanziDeck",
+    "Tags": [
+      "utility",
+      "ulanzi",
+      "deck",
+      "gearset"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1762560000,
+    "DownloadLinkInstall": "https://github.com/Ryuudiin/XIVUlanziDeck/releases/download/v0.0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ryuudiin/XIVUlanziDeck/releases/download/v0.0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ryuudiin/XIVUlanziDeck/releases/download/v0.0.1.0/latest.zip"
+  }
+]
