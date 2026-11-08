@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\TESTE\obj\Debug\XivUlanzi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TESTE\obj\Debug\XivUlanzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TESTE\obj\Debug\XivUlanzi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TESTE\obj\Debug\XivUlanzi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TESTE\obj\Debug\XivUlanzi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TESTE\bin\Debug\XivUlanzi.deps.json
+C:\Users\Administrator\Desktop\TESTE\bin\Debug\XivUlanzi.dll
+C:\Users\Administrator\Desktop\TESTE\obj\Debug\XivUlanzi.dll

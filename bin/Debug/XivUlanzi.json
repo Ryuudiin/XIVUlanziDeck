@@ -1,0 +1,21 @@
+{
+  "Author": "SeuNome",
+  "Name": "XIVUlanzi",
+  "InternalName": "XivUlanzi",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "Expõe um servidor WebSocket local para que o plugin do Ulanzi Studio acione macros, emotes e outras ações no jogo.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SEU_USUARIO/XivUlanzi",
+  "Tags": [
+    "utility",
+    "ulanzi",
+    "deck"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Controle o FFXIV pelo Ulanzi Studio.",
+  "AcceptsFeedback": true
+}

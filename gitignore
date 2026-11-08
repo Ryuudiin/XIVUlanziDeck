@@ -1,0 +1,14 @@
+# Compilação
+bin/
+obj/
+*.zip
+
+# IDEs
+.vs/
+.idea/
+*.user
+*.suo
+
+# Sistema
+Thumbs.db
+.DS_Store
